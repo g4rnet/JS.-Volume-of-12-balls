@@ -1,3 +1,5 @@
+"use strict";
+
 const BALLS_COUNT = 12;
 const WALL_THICKNESS = 0.01;
 const STEP = WALL_THICKNESS * 2;
